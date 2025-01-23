@@ -56,7 +56,7 @@ We may update this Privacy Policy periodically to reflect changes in our practic
 
 ## **Contact Us**  
 If you have any questions or concerns about this Privacy Policy or how your privacy is handled, please contact us:  
-- **Email:** [Insert Your Contact Email]  
+- **Email:** adedejisomoye1@gmail.com  
 
 ---
 
