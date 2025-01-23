@@ -6,15 +6,13 @@ Last updated: 23/01/2025
 This Privacy Policy describes how Methodist Youth Guide Reflection collects, uses, and discloses your information when you use our mobile application (the "App").
 
 ## Information We Collect
-- We do not collect any information or require you to provide us any, as the app was designed solely for devotional purposes alone.
 
 ### Information You Provide
-- [List specific information your app collects directly from users, e.g., name, email, etc.]
-- [If you don't collect any direct information, state this]
+- At present we do not collect any personal information of users, as the app is solely used for devotional purposes alone.
 
 ### Automatically Collected Information
-- Device information (model, operating system version)
-- App usage statistics
+- So as to be able to serve you better on different IOS versions, we may collect OS information for beter experience. But there is none currently collected.
+- We do not also collect app usage statistics for our benefit or for any use. So you are gauranteed that there are no underlying app usage data collected.
 - [List other automatic data collection, if any]
 
 ## How We Use Your Information
