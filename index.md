@@ -1,9 +1,9 @@
 # Privacy Policy
 
-Last updated: [Date]
+Last updated: 23/01/2025
 
 ## Overview
-This Privacy Policy describes how [Your App Name] ("we", "our", or "us") collects, uses, and discloses your information when you use our mobile application (the "App").
+This Privacy Policy describes how Methodist Youth Guide Reflection ("we", "our", or "us") collects, uses, and discloses your information when you use our mobile application (the "App").
 
 ## Information We Collect
 
