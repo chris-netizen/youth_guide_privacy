@@ -57,7 +57,3 @@ We may update this Privacy Policy periodically to reflect changes in our practic
 ## **Contact Us**  
 If you have any questions or concerns about this Privacy Policy or how your privacy is handled, please contact us:  
 - **Email:** adedejisomoye1@gmail.com  
-
----
-
-This policy ensures clarity and transparency while addressing the specific features of your app (e.g., no login, local data storage for reflections, and use of banner ads). Let me know if you'd like further tweaks!
